@@ -1,0 +1,11 @@
+1、对象嵌套对象
+用association解决，用resultMap而不是resultType
+
+2、association重名（数据库表属性名重复了）
+解决重名的方法  https://www.cnblogs.com/deng-cc/p/9337601.html
+
+3、排序
+ORDER BY c.id ASC
+
+4、org.apache.ibatis.binding.BindingException: Parameter 'teamName' not found.
+

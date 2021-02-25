@@ -1,0 +1,10 @@
+项目后端地址
+https://github.com/FYZ9628/springboot_ssm_demo
+
+数据库名称为 ssmbuild
+字符集为 utf8 Unicode
+排序规则为 utf8_general_ci
+
+
+接口测试（swagger2）
+http://127.0.0.1:8999/swagger-ui.html#/
